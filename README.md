@@ -11,6 +11,7 @@ Files Included
     README
 
 Credits
+
     I started with the Examples in the Class Activites
     I had help to fix my mistakes from multiple sources
         Tutor - Steve Thomas
